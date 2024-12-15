@@ -1,0 +1,4 @@
+git clone https://github.com/jaiswaladi246/Boardgame.git
+go inside the folder cd /Boardgame
+trivy fs . -> scans the current folder
+
