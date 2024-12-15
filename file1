@@ -1,4 +1,6 @@
 git clone https://github.com/jaiswaladi246/Boardgame.git
 go inside the folder cd /Boardgame
 trivy fs . -> scans the current folder
-
+trivy image --format table -o file1.tx imagename 
+trivy fs --format table -o file1.txt . 
+dot specifies current folder 
